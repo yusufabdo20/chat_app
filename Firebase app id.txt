@@ -1,0 +1,6 @@
+Platform  Firebase App Id
+web       1:662548107081:web:38d666587533665918d498
+android   1:662548107081:android:98aa31e5c7b0507f18d498
+ios       1:662548107081:ios:8676fee3e0e5c8a318d498
+macos     1:662548107081:ios:8676fee3e0e5c8a318d498
+chat-app-c7b50
